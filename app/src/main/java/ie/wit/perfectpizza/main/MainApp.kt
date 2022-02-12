@@ -10,6 +10,7 @@ import timber.log.Timber.i
 
 class MainApp : Application() {
 
+    lateinit var PizzaPlaceStore: Any
     lateinit var pizzaplaces : PizzaPlaceStore
 
     override fun onCreate() {
