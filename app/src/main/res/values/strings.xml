@@ -6,10 +6,12 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="security_info">"This site was generated with your security at it's core."</string>
 
     <string name="menu_home">Home</string>
     <string name="menu_personalpiggybank">Personal Banks</string>
     <string name="menu_grouppiggybank">Group Banks</string>
     <string name="menu_security">Security Info</string>
+
 
 </resources>

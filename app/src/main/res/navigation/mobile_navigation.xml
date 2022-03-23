@@ -28,9 +28,4 @@
         android:name="ie.wit.piggybank.ui.security.SecurityFragment"
         android:label="@string/menu_security"
         tools:layout="@layout/fragment_security" />
-    <fragment
-        android:id="@+id/securityFragment"
-        android:name="ie.wit.piggybank.SecurityFragment"
-        android:label="security_fragment"
-        tools:layout="@layout/security_fragment" />
 </navigation>
